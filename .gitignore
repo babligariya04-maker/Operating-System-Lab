@@ -1,0 +1,23 @@
+
+# Compiled C programs
+*.exe
+*.out
+*.o
+a.out
+
+# Generated files
+student.txt
+sample.txt
+even.txt
+myfifo
+
+# Debug files
+*.log
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
